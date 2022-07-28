@@ -1,3 +1,4 @@
+![thumnail](./assets/project%202%20thumbnail.png)
 ![head](https://img.shields.io/badge/Hello-Welcome-orange)
 
 # I am Sandeep Pal🌟
